@@ -1,6 +1,21 @@
 {
-	"scripts": {
-		"start": "app.js"
-	},
-	"main": "app.js"
+  "name": "CTserver",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "cub-vehicle-guess-position": "~1.0.1",
+    "express": "~4.14.0",
+    "iconv-lite": "~0.4.13",
+    "node-cron": "~1.1.1",
+    "proj4": "~2.3.14",
+    "socket.io": "^2.0.3",
+    "xml2js": "~0.4.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "app.js"
+  },
+  "author": "",
+  "license": "BSD-2-Clause"
 }
