@@ -14,7 +14,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "app.js"
+    "start": "node app.js"
   },
   "author": "",
   "license": "BSD-2-Clause"
