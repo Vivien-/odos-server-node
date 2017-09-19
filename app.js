@@ -23,8 +23,8 @@ server.listen(8081, function listening() {
 });
 
 
-app.listen(8089, function () {
-    console.log('Server data  listening on 8089');
+app.listen(8080, function () {
+    console.log('Server data  listening on 8080');
 });
 
 lines = [];
